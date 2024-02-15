@@ -1,0 +1,21 @@
+/**app.wxss**/
+page {
+  padding: 0 16rpx;
+}
+
+.status-bar {
+  width: 718rpx;
+  background-color: aqua;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  width: 718rpx;
+  background-color: red;
+}
+
+.content {
+  width: 718rpx;
+  background-color: coral;
+}

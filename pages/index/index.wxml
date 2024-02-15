@@ -1,0 +1,12 @@
+<!--pages/index/index.wxml-->
+<view class="status-bar" style="height: {{statusBarHeight}}px;">
+  <text>Status</text>
+</view>
+
+<view class="nav-bar" style="height: {{navBarHeight}}px;">
+  <text>Title</text>
+</view>
+
+<view class="content" style="height: {{contentHeight}}px;">
+  <text>Content</text>
+</view>
